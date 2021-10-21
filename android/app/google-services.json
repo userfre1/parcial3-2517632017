@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065972446744",
+    "project_id": "databaseparcial3",
+    "storage_bucket": "databaseparcial3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065972446744:android:1d55edf48a3ca8a818356d",
+        "android_client_info": {
+          "package_name": "com.mriz.flutlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065972446744-k6je3a37lgb62cu9g9nfbo5cv3v8hb4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMw7sHV_73IWURetFjB8biB9rIufeTVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065972446744-k6je3a37lgb62cu9g9nfbo5cv3v8hb4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
